@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GlimpsePlugins.WindowsEventLog</id>
+    <version>1.1.0.0</version>
+    <title>Windows Event Log plugin for Glimpse</title>
+    <authors>Nicolas Fatoux</authors>
+    <owners>Nicolas Fatoux</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.html</licenseUrl>
+    <projectUrl>https://github.com/NicolasFatoux/GlimpsePlugins</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Glimpse plugin that displays Windows Event Log entries from the server.</description>
+    <releaseNotes>Improved layout.</releaseNotes>
+    <tags>ASP.NET Web Glimpse</tags>
+    <dependencies>
+      <dependency id="Glimpse" version="0.87" />
+    </dependencies>
+  </metadata>
+</package>
