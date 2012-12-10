@@ -22,9 +22,9 @@ namespace WhatsMyAlt
             //    consumerKey: "",
             //    consumerSecret: "");
 
-            //OAuthWebSecurity.RegisterFacebookClient(
-            //    appId: "",
-            //    appSecret: "");
+            OAuthWebSecurity.RegisterFacebookClient(
+                appId: "213398498795497",
+                appSecret: "6262a89efa6c3a19de458635709587df");
 
             //OAuthWebSecurity.RegisterGoogleClient();
         }
